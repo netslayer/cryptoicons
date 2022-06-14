@@ -6,7 +6,8 @@
 	"repository": "netslayer/cryptoicons",
 	"homepage": "",
 	"files": [
-		"SVG-icons"
+		"SVG-icons",
+        "PNG-icons"
 	],
 	"keywords": [
 		"cryptocurrency",

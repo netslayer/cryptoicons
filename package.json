@@ -1,0 +1,38 @@
+{
+	"name": "cryptoicons",
+	"version": "0.0.1",
+	"description": "forked crypto icons from spothq/cryptocurrency-icons",
+	"license": "GPL-3.0",
+	"repository": "netslayer/cryptoicons",
+	"homepage": "",
+	"files": [
+		"SVG-icons"
+	],
+	"keywords": [
+		"cryptocurrency",
+		"icons",
+		"icon",
+		"crypto",
+		"currency",
+		"cryptocurrencies",
+		"currencies",
+		"symbols",
+		"svg",
+		"png",
+		"vector",
+		"color",
+		"coin",
+		"bitcoin",
+		"ethereum",
+		"flat-icons",
+		"altcoin",
+		"altcoins",
+		"icon-pack",
+		"icon-set",
+		"erc20-tokens",
+		"erc20",
+		"erc721"
+	],
+	"devDependencies": {
+	}
+}

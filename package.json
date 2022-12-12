@@ -1,11 +1,11 @@
 {
 	"name": "cryptoicons",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "forked crypto icons from spothq/cryptocurrency-icons",
 	"license": "GPL-3.0",
 	"repository": "netslayer/cryptoicons",
 	"homepage": "",
-	"files": [
+	"files": [ 
 		"SVG-icons",
         "PNG-icons"
 	],

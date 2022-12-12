@@ -5,8 +5,12 @@
 	"license": "GPL-3.0",
 	"repository": "netslayer/cryptoicons",
 	"homepage": "",
-	"files": [ 
-		"SVG-icons",
+	"files": [
+        "128",
+        "64",
+        "32",
+        "16",
+		"SVG",
         "PNG-icons"
 	],
 	"keywords": [
